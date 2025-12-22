@@ -1,3 +1,3 @@
 # mltechsoft-doiquakun-reactnative-webapplication
 
-Frontend Deployment: https://dqk.expo.app
+Frontend Deployment: https://mlts-dqk.expo.app
